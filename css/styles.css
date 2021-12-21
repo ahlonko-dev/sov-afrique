@@ -11409,8 +11409,10 @@ header.masthead {
   padding-top: 10.5rem;
   padding-bottom: 6rem;
   text-align: center;
-  color: #fff;
-  background-image: url("../assets/img/header-bg.jpg");
+  color:goldenrod;
+  /*color: #fff;*/
+  /*background-image: url("../assets/img/header-bg.jpg");*/
+  background-image: url("../assets/img/images/sourire.enfant2.21.05.35.jpeg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
